@@ -1,4 +1,4 @@
-provider "aws" {
+/* provider "aws" {
   region = "ap-south-1"
 }
 
@@ -10,4 +10,4 @@ resource "aws_instance" "test" {
     Name = "Testing"
   }
 }
-
+*/
